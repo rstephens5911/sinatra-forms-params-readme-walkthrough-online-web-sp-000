@@ -6,5 +6,5 @@ class App < Sinatra::Base
     erb :food_form
   end
 
-  
+
 end
